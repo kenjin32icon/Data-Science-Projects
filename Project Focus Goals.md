@@ -1,4 +1,4 @@
- # LibreOffice Calc Data Science/ Business Inteligence Projects
+ # LibreOffice Calc Data Science/ Business intelligence Projects
 
 LibreOffice Calc is a powerful spreadsheet tool that can be used for a variety of data analysis, visualization, and business intelligence tasks. While it may not have all the advanced features of IBM tools, it is a great platform for showcasing your skills in data science and business intelligence. Here are some project ideas you can work on in LibreOffice Calc:
 
